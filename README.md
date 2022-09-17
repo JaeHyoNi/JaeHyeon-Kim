@@ -1,4 +1,4 @@
-# 공부좀해라 빙시야 👋
+# 공부좀해라  👋
 
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kimcharless)](https://www.acmicpc.net/user/kimcharless)
